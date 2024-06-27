@@ -9,6 +9,6 @@ Usage
 To use the calculator, simply open the index.html file in your web browser. Click the buttons to perform calculations and see the results in real-time on the display.
 
 Setup
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/aroojzafar1/Simple_Calculator.git
 Navigate to the project directory: cd simple-calculator
 Open index.html in your preferred web browser
